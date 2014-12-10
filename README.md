@@ -1,6 +1,7 @@
 # README
 
 Logisim is a circuit simulator, [originally available here](http://www.cburch.com/logisim/).
+It needs some help.
 
 ## Why this fork of Logisim?
 Carl Burch, the original author of Logisim, abandoned development in 2011 and moved on to a similar successor project, [Toves](http://www.toves.org/) in 2013, because Logisim's code base is in need of a major overhaul.
